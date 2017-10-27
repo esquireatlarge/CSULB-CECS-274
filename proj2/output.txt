@@ -1,0 +1,631 @@
+This program displays a list of pets and also allows
+for insertion and removal of pets
+
+1:  Insert pet into list.
+2:  Delete a specific pet.
+3:  Retrieve specific pet from list.
+4:  Clear the list.
+5:  Display list.
+6:  Exit the program.
+
+Enter a menu option from 1 to 6: 1
+Enter species: Cat
+Enter name: Catherine
+Enter the price: 456.12
+---------------------------
+Pet entered successfully.
+---------------------------
+
+1:  Insert pet into list.
+2:  Delete a specific pet.
+3:  Retrieve specific pet from list.
+4:  Clear the list.
+5:  Display list.
+6:  Exit the program.
+
+Enter a menu option from 1 to 6: 1
+Enter species: Dog
+Enter name: Dave
+Enter the price: 456.36
+---------------------------
+Pet entered successfully.
+---------------------------
+
+1:  Insert pet into list.
+2:  Delete a specific pet.
+3:  Retrieve specific pet from list.
+4:  Clear the list.
+5:  Display list.
+6:  Exit the program.
+
+Enter a menu option from 1 to 6: 1
+Enter species: Dog
+Enter name: Rocky
+Enter the price: 999999.99
+---------------------------
+Pet entered successfully.
+---------------------------
+
+1:  Insert pet into list.
+2:  Delete a specific pet.
+3:  Retrieve specific pet from list.
+4:  Clear the list.
+5:  Display list.
+6:  Exit the program.
+
+Enter a menu option from 1 to 6: 1
+Enter species: Anaconda
+Enter name: Andy
+Enter the price: 12.98
+---------------------------
+Pet entered successfully.
+---------------------------
+
+1:  Insert pet into list.
+2:  Delete a specific pet.
+3:  Retrieve specific pet from list.
+4:  Clear the list.
+5:  Display list.
+6:  Exit the program.
+
+Enter a menu option from 1 to 6: 1
+Enter species: Armadillo
+Enter name: Armando
+Enter the price: 14.25
+---------------------------
+Pet entered successfully.
+---------------------------
+
+1:  Insert pet into list.
+2:  Delete a specific pet.
+3:  Retrieve specific pet from list.
+4:  Clear the list.
+5:  Display list.
+6:  Exit the program.
+
+Enter a menu option from 1 to 6: 1
+Enter species: Zebra
+Enter name: Zack
+Enter the price: 7812.36
+---------------------------
+Pet entered successfully.
+---------------------------
+
+1:  Insert pet into list.
+2:  Delete a specific pet.
+3:  Retrieve specific pet from list.
+4:  Clear the list.
+5:  Display list.
+6:  Exit the program.
+
+Enter a menu option from 1 to 6: 1
+Enter species: Bear
+Enter name: Barry
+Enter the price: 96.36
+---------------------------
+Pet entered successfully.
+---------------------------
+
+1:  Insert pet into list.
+2:  Delete a specific pet.
+3:  Retrieve specific pet from list.
+4:  Clear the list.
+5:  Display list.
+6:  Exit the program.
+
+Enter a menu option from 1 to 6: 1
+Enter species: Cat
+Enter name: Catlyn
+Enter the price: 96.32
+---------------------------
+Pet entered successfully.
+---------------------------
+
+1:  Insert pet into list.
+2:  Delete a specific pet.
+3:  Retrieve specific pet from list.
+4:  Clear the list.
+5:  Display list.
+6:  Exit the program.
+
+Enter a menu option from 1 to 6: 1
+Enter species: Dog
+Enter name: Dave
+Enter the price: 12.36
+Exception occurred: Duplicate pet.
+
+1:  Insert pet into list.
+2:  Delete a specific pet.
+3:  Retrieve specific pet from list.
+4:  Clear the list.
+5:  Display list.
+6:  Exit the program.
+
+Enter a menu option from 1 to 6: 1
+Enter species: Giraffe
+Enter name: Gary
+Enter the price: 78
+---------------------------
+Pet entered successfully.
+---------------------------
+
+1:  Insert pet into list.
+2:  Delete a specific pet.
+3:  Retrieve specific pet from list.
+4:  Clear the list.
+5:  Display list.
+6:  Exit the program.
+
+Enter a menu option from 1 to 6: 1
+Enter species: Yak
+Enter name: Yu Yevon
+Enter the price: 45.36
+---------------------------
+Pet entered successfully.
+---------------------------
+
+1:  Insert pet into list.
+2:  Delete a specific pet.
+3:  Retrieve specific pet from list.
+4:  Clear the list.
+5:  Display list.
+6:  Exit the program.
+
+Enter a menu option from 1 to 6: 1
+Enter species: Duck
+Enter name: Donald
+Enter the price: 45.36
+---------------------------
+Pet entered successfully.
+---------------------------
+
+1:  Insert pet into list.
+2:  Delete a specific pet.
+3:  Retrieve specific pet from list.
+4:  Clear the list.
+5:  Display list.
+6:  Exit the program.
+
+Enter a menu option from 1 to 6: 1
+Enter species: Mouse
+Enter name: Mickey
+Enter the price: 45.36
+---------------------------
+Pet entered successfully.
+---------------------------
+
+1:  Insert pet into list.
+2:  Delete a specific pet.
+3:  Retrieve specific pet from list.
+4:  Clear the list.
+5:  Display list.
+6:  Exit the program.
+
+Enter a menu option from 1 to 6: 1
+Enter species: Duck
+Enter name: Scrooge
+Enter the price: 12.78
+---------------------------
+Pet entered successfully.
+---------------------------
+
+1:  Insert pet into list.
+2:  Delete a specific pet.
+3:  Retrieve specific pet from list.
+4:  Clear the list.
+5:  Display list.
+6:  Exit the program.
+
+Enter a menu option from 1 to 6: 1
+Enter species: Fox
+Enter name: Gray
+Enter the price: 78.23
+---------------------------
+Pet entered successfully.
+---------------------------
+
+1:  Insert pet into list.
+2:  Delete a specific pet.
+3:  Retrieve specific pet from list.
+4:  Clear the list.
+5:  Display list.
+6:  Exit the program.
+
+Enter a menu option from 1 to 6: 1
+Enter species: Grendel
+Enter name: Grendel
+Enter the price: 12.36
+---------------------------
+Pet entered successfully.
+---------------------------
+
+1:  Insert pet into list.
+2:  Delete a specific pet.
+3:  Retrieve specific pet from list.
+4:  Clear the list.
+5:  Display list.
+6:  Exit the program.
+
+Enter a menu option from 1 to 6: 1
+Enter species: Jackal
+Enter name: Jack
+Enter the price: 45.36
+---------------------------
+Pet entered successfully.
+---------------------------
+
+1:  Insert pet into list.
+2:  Delete a specific pet.
+3:  Retrieve specific pet from list.
+4:  Clear the list.
+5:  Display list.
+6:  Exit the program.
+
+Enter a menu option from 1 to 6: 1
+Enter species: Aardvark
+Enter name: Aaron
+Enter the price: 45.36
+---------------------------
+Pet entered successfully.
+---------------------------
+
+1:  Insert pet into list.
+2:  Delete a specific pet.
+3:  Retrieve specific pet from list.
+4:  Clear the list.
+5:  Display list.
+6:  Exit the program.
+
+Enter a menu option from 1 to 6: 1
+Enter species: Wolf
+Enter name: Wolfie
+Enter the price: 66.79
+---------------------------
+Pet entered successfully.
+---------------------------
+
+1:  Insert pet into list.
+2:  Delete a specific pet.
+3:  Retrieve specific pet from list.
+4:  Clear the list.
+5:  Display list.
+6:  Exit the program.
+
+Enter a menu option from 1 to 6: 1
+Enter species: Jedi
+Enter name: Anakin
+Enter the price: 45.63
+---------------------------
+Pet entered successfully.
+---------------------------
+
+1:  Insert pet into list.
+2:  Delete a specific pet.
+3:  Retrieve specific pet from list.
+4:  Clear the list.
+5:  Display list.
+6:  Exit the program.
+
+Enter a menu option from 1 to 6: 1
+Enter species: Snake
+Enter name: Sally
+Enter the price: 96.36
+---------------------------
+Pet entered successfully.
+---------------------------
+
+1:  Insert pet into list.
+2:  Delete a specific pet.
+3:  Retrieve specific pet from list.
+4:  Clear the list.
+5:  Display list.
+6:  Exit the program.
+
+Enter a menu option from 1 to 6: 1
+Enter species: Kangarro
+Enter name: Ken
+Enter the price: 45.36
+---------------------------
+Pet entered successfully.
+---------------------------
+
+1:  Insert pet into list.
+2:  Delete a specific pet.
+3:  Retrieve specific pet from list.
+4:  Clear the list.
+5:  Display list.
+6:  Exit the program.
+
+Enter a menu option from 1 to 6: 1
+Enter species: Ostrich
+Enter name: Oscar
+Enter the price: 45.12
+---------------------------
+Pet entered successfully.
+---------------------------
+
+1:  Insert pet into list.
+2:  Delete a specific pet.
+3:  Retrieve specific pet from list.
+4:  Clear the list.
+5:  Display list.
+6:  Exit the program.
+
+Enter a menu option from 1 to 6: 1
+Enter species: Emu
+Enter name: Emile
+Enter the price: 45.98
+---------------------------
+Pet entered successfully.
+---------------------------
+
+1:  Insert pet into list.
+2:  Delete a specific pet.
+3:  Retrieve specific pet from list.
+4:  Clear the list.
+5:  Display list.
+6:  Exit the program.
+
+Enter a menu option from 1 to 6: 1
+Enter species: Ferret
+Enter name: Ferb
+Enter the price: 63.45
+---------------------------
+Pet entered successfully.
+---------------------------
+
+1:  Insert pet into list.
+2:  Delete a specific pet.
+3:  Retrieve specific pet from list.
+4:  Clear the list.
+5:  Display list.
+6:  Exit the program.
+
+Enter a menu option from 1 to 6: 5
+
+Species            Name                       Price
+------------------------------------------------------
+Aardvark           Aaron                      45.36
+
+Anaconda           Andy                       12.98
+
+Armadillo          Armando                    14.25
+
+Bear               Barry                      96.36
+
+Cat                Catherine                 456.12
+
+Cat                Catlyn                     96.32
+
+Dog                Dave                      456.36
+
+Dog                Rocky                  999999.99
+
+Duck               Donald                     45.36
+
+Duck               Scrooge                    12.78
+
+Emu                Emile                      45.98
+
+Ferret             Ferb                       63.45
+
+Fox                Gray                       78.23
+
+Giraffe            Gary                       78.00
+
+Grendel            Grendel                    12.36
+
+Jackal             Jack                       45.36
+
+Jedi               Anakin                     45.63
+
+Kangarro           Ken                        45.36
+
+Mouse              Mickey                     45.36
+
+Ostrich            Oscar                      45.12
+
+Snake              Sally                      96.36
+
+Wolf               Wolfie                     66.79
+
+Yak                Yu Yevon                   45.36
+
+Zebra              Zack                     7812.36
+
+
+------------------------------------------------------
+
+1:  Insert pet into list.
+2:  Delete a specific pet.
+3:  Retrieve specific pet from list.
+4:  Clear the list.
+5:  Display list.
+6:  Exit the program.
+
+Enter a menu option from 1 to 6: 3
+Enter species: Dog
+Enter name: Rocky
+
+Species            Name                       Price
+------------------------------------------------------
+Dog                Rocky                  999999.99
+
+
+1:  Insert pet into list.
+2:  Delete a specific pet.
+3:  Retrieve specific pet from list.
+4:  Clear the list.
+5:  Display list.
+6:  Exit the program.
+
+Enter a menu option from 1 to 6: 2
+Enter species: Cat
+Enter name: Catherine
+---------------------------
+Pet removed successfully.
+---------------------------
+
+
+1:  Insert pet into list.
+2:  Delete a specific pet.
+3:  Retrieve specific pet from list.
+4:  Clear the list.
+5:  Display list.
+6:  Exit the program.
+
+Enter a menu option from 1 to 6: 5
+
+Species            Name                       Price
+------------------------------------------------------
+Aardvark           Aaron                      45.36
+
+Anaconda           Andy                       12.98
+
+Armadillo          Armando                    14.25
+
+Bear               Barry                      96.36
+
+Cat                Catlyn                     96.32
+
+Dog                Dave                      456.36
+
+Dog                Rocky                  999999.99
+
+Duck               Donald                     45.36
+
+Duck               Scrooge                    12.78
+
+Emu                Emile                      45.98
+
+Ferret             Ferb                       63.45
+
+Fox                Gray                       78.23
+
+Giraffe            Gary                       78.00
+
+Grendel            Grendel                    12.36
+
+Jackal             Jack                       45.36
+
+Jedi               Anakin                     45.63
+
+Kangarro           Ken                        45.36
+
+Mouse              Mickey                     45.36
+
+Ostrich            Oscar                      45.12
+
+Snake              Sally                      96.36
+
+Wolf               Wolfie                     66.79
+
+Yak                Yu Yevon                   45.36
+
+Zebra              Zack                     7812.36
+
+
+------------------------------------------------------
+
+1:  Insert pet into list.
+2:  Delete a specific pet.
+3:  Retrieve specific pet from list.
+4:  Clear the list.
+5:  Display list.
+6:  Exit the program.
+
+Enter a menu option from 1 to 6: 1
+Enter species: Cat
+Enter name: Cathy
+Enter the price: 45.36
+---------------------------
+Pet entered successfully.
+---------------------------
+
+1:  Insert pet into list.
+2:  Delete a specific pet.
+3:  Retrieve specific pet from list.
+4:  Clear the list.
+5:  Display list.
+6:  Exit the program.
+
+Enter a menu option from 1 to 6: 1
+Enter species: Dog
+Enter name: Dave
+Enter the price: 78.9
+Exception occurred: Duplicate pet.
+
+1:  Insert pet into list.
+2:  Delete a specific pet.
+3:  Retrieve specific pet from list.
+4:  Clear the list.
+5:  Display list.
+6:  Exit the program.
+
+Enter a menu option from 1 to 6: 1
+Enter species: Monkey
+Enter name: Marty
+Enter the price: 45.36
+---------------------------
+Pet entered successfully.
+---------------------------
+
+1:  Insert pet into list.
+2:  Delete a specific pet.
+3:  Retrieve specific pet from list.
+4:  Clear the list.
+5:  Display list.
+6:  Exit the program.
+
+Enter a menu option from 1 to 6: 1
+Enter species: Liger
+Enter name: Pete
+Enter the price: 12.36
+Exception occurred: List is full
+
+1:  Insert pet into list.
+2:  Delete a specific pet.
+3:  Retrieve specific pet from list.
+4:  Clear the list.
+5:  Display list.
+6:  Exit the program.
+
+Enter a menu option from 1 to 6: 1
+Enter species: Llama
+Enter name: Lloyd
+Enter the price: 78.96
+Exception occurred: List is full
+
+1:  Insert pet into list.
+2:  Delete a specific pet.
+3:  Retrieve specific pet from list.
+4:  Clear the list.
+5:  Display list.
+6:  Exit the program.
+
+Enter a menu option from 1 to 6: 4
+---------------------------
+List successfully cleared.
+---------------------------
+
+
+1:  Insert pet into list.
+2:  Delete a specific pet.
+3:  Retrieve specific pet from list.
+4:  Clear the list.
+5:  Display list.
+6:  Exit the program.
+
+Enter a menu option from 1 to 6: 5
+------------------------
+List is empty.
+------------------------
+
+1:  Insert pet into list.
+2:  Delete a specific pet.
+3:  Retrieve specific pet from list.
+4:  Clear the list.
+5:  Display list.
+6:  Exit the program.
+
+Enter a menu option from 1 to 6: 6

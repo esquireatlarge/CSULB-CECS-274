@@ -1,0 +1,418 @@
+Script started on Tue Apr  8 12:00:10 2008
+[msguerri@ecs416lin205 proj3-2]$ a.p[Kout
+This program displays a list of pets and also allows 
+for insertion and removal of pets.
+
+1:  Insert pet into list.
+2:  Delete a specific pet.
+3:  Retrieve specific pet from list.
+4:  Clear the list.
+5:  Display all the pets in pets in sorted order.
+6:  Create a copy of the original list.
+7:  Display the copied list.
+8:  Exit the program.
+
+Enter a menu option from 1 to 8: 4
+---------------------------
+List successfully cleared.
+---------------------------
+
+
+1:  Insert pet into list.
+2:  Delete a specific pet.
+3:  Retrieve specific pet from list.
+4:  Clear the list.
+5:  Display all the pets in pets in sorted order.
+6:  Create a copy of the original list.
+7:  Display the copied list.
+8:  Exit the program.
+
+Enter a menu option from 1 to 8: 5
+------------------------
+List is empty.
+------------------------
+
+1:  Insert pet into list.
+2:  Delete a specific pet.
+3:  Retrieve specific pet from list.
+4:  Clear the list.
+5:  Display all the pets in pets in sorted order.
+6:  Create a copy of the original list.
+7:  Display the copied list.
+8:  Exit the program.
+
+Enter a menu option from 1 to 8: 1
+Enter species: Dog
+Enter name: Rocky
+Enter the price: 12a.36
+
+Invalid floating point value,  please re-enter: 12.45
+---------------------------
+Pet entered successfully.
+---------------------------
+
+1:  Insert pet into list.
+2:  Delete a specific pet.
+3:  Retrieve specific pet from list.
+4:  Clear the list.
+5:  Display all the pets in pets in sorted order.
+6:  Create a copy of the original list.
+7:  Display the copied list.
+8:  Exit the program.
+
+Enter a menu option from 1 to 8: 1
+Enter species: Cat
+Enter name: Catherine
+Enter the price: 78.96
+---------------------------
+Pet entered successfully.
+---------------------------
+
+1:  Insert pet into list.
+2:  Delete a specific pet.
+3:  Retrieve specific pet from list.
+4:  Clear the list.
+5:  Display all the pets in pets in sorted order.
+6:  Create a copy of the original list.
+7:  Display the copied list.
+8:  Exit the program.
+
+Enter a menu option from 1 to 8: 12a
+
+Invalid integer, please re-enter: 1
+Enter species: Pe latipus
+Enter name: Perry
+Enter the price: 456.12
+---------------------------
+Pet entered successfully.
+---------------------------
+
+1:  Insert pet into list.
+2:  Delete a specific pet.
+3:  Retrieve specific pet from list.
+4:  Clear the list.
+5:  Display all the pets in pets in sorted order.
+6:  Create a copy of the original list.
+7:  Display the copied list.
+8:  Exit the program.
+
+Enter a menu option from 1 to 8: 1
+Enter species: Terry    iger
+Enter name: Terry
+Enter the price: 456.12
+---------------------------
+Pet entered successfully.
+---------------------------
+
+1:  Insert pet into list.
+2:  Delete a specific pet.
+3:  Retrieve specific pet from list.
+4:  Clear the list.
+5:  Display all the pets in pets in sorted order.
+6:  Create a copy of the original list.
+7:  Display the copied list.
+8:  Exit the program.
+
+Enter a menu option from 1 to 8: 1
+Enter species: Zebra
+Enter name: Zack
+Enter the price: 78.25
+---------------------------
+Pet entered successfully.
+---------------------------
+
+1:  Insert pet into list.
+2:  Delete a specific pet.
+3:  Retrieve specific pet from list.
+4:  Clear the list.
+5:  Display all the pets in pets in sorted order.
+6:  Create a copy of the original list.
+7:  Display the copied list.
+8:  Exit the program.
+
+Enter a menu option from 1 to 8: 5
+Cat                Catherine                  78.96
+Dog                Rocky                      12.45
+Platipus           Perry                     456.12
+Tiger              Terry                     456.12
+Zebra              Zack                       78.25
+
+------------------------------------------------------
+
+1:  Insert pet into list.
+2:  Delete a specific pet.
+3:  Retrieve specific pet from list.
+4:  Clear the list.
+5:  Display all the pets in pets in sorted order.
+6:  Create a copy of the original list.
+7:  Display the copied list.
+8:  Exit the program.
+
+Enter a menu option from 1 to 8: 3
+Enter species: Platipus
+Enter name: Perry
+
+Species            Name                       Price
+------------------------------------------------------
+Platipus           Perry                     456.12
+
+
+1:  Insert pet into list.
+2:  Delete a specific pet.
+3:  Retrieve specific pet from list.
+4:  Clear the list.
+5:  Display all the pets in pets in sorted order.
+6:  Create a copy of the original list.
+7:  Display the copied list.
+8:  Exit the program.
+
+Enter a menu option from 1 to 8: 2
+Enter species: Platipus
+Enter name: Perry
+---------------------------
+Pet removed successfully.
+---------------------------
+
+
+1:  Insert pet into list.
+2:  Delete a specific pet.
+3:  Retrieve specific pet from list.
+4:  Clear the list.
+5:  Display all the pets in pets in sorted order.
+6:  Create a copy of the original list.
+7:  Display the copied list.
+8:  Exit the program.
+
+Enter a menu option from 1 to 8: 5
+Cat                Catherine                  78.96
+Dog                Rocky                      12.45
+Tiger              Terry                     456.12
+Zebra              Zack                       78.25
+
+------------------------------------------------------
+
+1:  Insert pet into list.
+2:  Delete a specific pet.
+3:  Retrieve specific pet from list.
+4:  Clear the list.
+5:  Display all the pets in pets in sorted order.
+6:  Create a copy of the original list.
+7:  Display the copied list.
+8:  Exit the program.
+
+Enter a menu option from 1 to 8: 6
+--------------------------
+List copied successfully.
+--------------------------
+
+1:  Insert pet into list.
+2:  Delete a specific pet.
+3:  Retrieve specific pet from list.
+4:  Clear the list.
+5:  Display all the pets in pets in sorted order.
+6:  Create a copy of the original list.
+7:  Display the copied list.
+8:  Exit the program.
+
+Enter a menu option from 1 to 8: 7
+Cat                Catherine                  78.96
+Dog                Rocky                      12.45
+Tiger              Terry                     456.12
+Zebra              Zack                       78.25
+
+------------------------------------------------------
+
+1:  Insert pet into list.
+2:  Delete a specific pet.
+3:  Retrieve specific pet from list.
+4:  Clear the list.
+5:  Display all the pets in pets in sorted order.
+6:  Create a copy of the original list.
+7:  Display the copied list.
+8:  Exit the program.
+
+Enter a menu option from 1 to 8: 1
+Enter species: Aardvark
+Enter name: Aaron
+Enter the price: 789.12
+---------------------------
+Pet entered successfully.
+---------------------------
+
+1:  Insert pet into list.
+2:  Delete a specific pet.
+3:  Retrieve specific pet from list.
+4:  Clear the list.
+5:  Display all the pets in pets in sorted order.
+6:  Create a copy of the original list.
+7:  Display the copied list.
+8:  Exit the program.
+
+Enter a menu option from 1 to 8: 58 
+Aardvark           Aaron                     789.12
+Cat                Catherine                  78.96
+Dog                Rocky                      12.45
+Tiger              Terry                     456.12
+Zebra              Zack                       78.25
+
+------------------------------------------------------
+
+1:  Insert pet into list.
+2:  Delete a specific pet.
+3:  Retrieve specific pet from list.
+4:  Clear the list.
+5:  Display all the pets in pets in sorted order.
+6:  Create a copy of the original list.
+7:  Display the copied list.
+8:  Exit the program.
+
+Enter a menu option from 1 to 8: 7
+Cat                Catherine                  78.96
+Dog                Rocky                      12.45
+Tiger              Terry                     456.12
+Zebra              Zack                       78.25
+
+------------------------------------------------------
+
+1:  Insert pet into list.
+2:  Delete a specific pet.
+3:  Retrieve specific pet from list.
+4:  Clear the list.
+5:  Display all the pets in pets in sorted order.
+6:  Create a copy of the original list.
+7:  Display the copied list.
+8:  Exit the program.
+
+Enter a menu option from 1 to 8: 4 2
+Enter species: Aardvark
+Enter name: Aaron
+---------------------------
+Pet removed successfully.
+---------------------------
+
+
+1:  Insert pet into list.
+2:  Delete a specific pet.
+3:  Retrieve specific pet from list.
+4:  Clear the list.
+5:  Display all the pets in pets in sorted order.
+6:  Create a copy of the original list.
+7:  Display the copied list.
+8:  Exit the program.
+
+Enter a menu option from 1 to 8: 5
+Cat                Catherine                  78.96
+Dog                Rocky                      12.45
+Tiger              Terry                     456.12
+Zebra              Zack                       78.25
+
+------------------------------------------------------
+
+1:  Insert pet into list.
+2:  Delete a specific pet.
+3:  Retrieve specific pet from list.
+4:  Clear the list.
+5:  Display all the pets in pets in sorted order.
+6:  Create a copy of the original list.
+7:  Display the copied list.
+8:  Exit the program.
+
+Enter a menu option from 1 to 8: 7
+Cat                Catherine                  78.96
+Dog                Rocky                      12.45
+Tiger              Terry                     456.12
+Zebra              Zack                       78.25
+
+------------------------------------------------------
+
+1:  Insert pet into list.
+2:  Delete a specific pet.
+3:  Retrieve specific pet from list.
+4:  Clear the list.
+5:  Display all the pets in pets in sorted order.
+6:  Create a copy of the original list.
+7:  Display the copied list.
+8:  Exit the program.
+
+Enter a menu option from 1 to 8: 2
+Enter species: arm   Armadillo
+Enter name: Armando
+Exception occurred: Pet not found.
+
+1:  Insert pet into list.
+2:  Delete a specific pet.
+3:  Retrieve specific pet from list.
+4:  Clear the list.
+5:  Display all the pets in pets in sorted order.
+6:  Create a copy of the original list.
+7:  Display the copied list.
+8:  Exit the program.
+
+Enter a menu option from 1 to 8: 3
+Enter species: Armadill0o  o
+Enter name: Armando
+Exception occurred: Pet not found.
+
+1:  Insert pet into list.
+2:  Delete a specific pet.
+3:  Retrieve specific pet from list.
+4:  Clear the list.
+5:  Display all the pets in pets in sorted order.
+6:  Create a copy of the original list.
+7:  Display the copied list.
+8:  Exit the program.
+
+Enter a menu option from 1 to 8: 4
+---------------------------
+List successfully cleared.
+---------------------------
+
+
+1:  Insert pet into list.
+2:  Delete a specific pet.
+3:  Retrieve specific pet from list.
+4:  Clear the list.
+5:  Display all the pets in pets in sorted order.
+6:  Create a copy of the original list.
+7:  Display the copied list.
+8:  Exit the program.
+
+Enter a menu option from 1 to 8: 5
+------------------------
+List is empty.
+------------------------
+
+1:  Insert pet into list.
+2:  Delete a specific pet.
+3:  Retrieve specific pet from list.
+4:  Clear the list.
+5:  Display all the pets in pets in sorted order.
+6:  Create a copy of the original list.
+7:  Display the copied list.
+8:  Exit the program.
+
+Enter a menu option from 1 to 8: 7
+Cat                Catherine                  78.96
+Dog                Rocky                      12.45
+Tiger              Terry                     456.12
+Zebra              Zack                       78.25
+
+------------------------------------------------------
+
+1:  Insert pet into list.
+2:  Delete a specific pet.
+3:  Retrieve specific pet from list.
+4:  Clear the list.
+5:  Display all the pets in pets in sorted order.
+6:  Create a copy of the original list.
+7:  Display the copied list.
+8:  Exit the program.
+
+Enter a menu option from 1 to 8: 8
+--------------------------
+Program terminating.
+--------------------------
+[msguerri@ecs416lin205 proj3-2]$ exit
+exit
+
+Script done on Tue Apr  8 12:04:17 2008
